@@ -1,2 +1,4 @@
 hello master 
 this is maester content
+
+content change for samsung
